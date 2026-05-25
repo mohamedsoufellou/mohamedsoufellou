@@ -13,6 +13,16 @@
 <br/>
 <br/>
 
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Status-Architecting-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Status"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Distributed_Systems-1e1e2e?style=for-the-badge&logo=databricks&logoColor=ffffff" alt="Focus"/></a>
+  
+  
+</div>
+
+<br/>
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1&section=footer&text=&fontSize=0" width="40%"/>
 
 </div>
